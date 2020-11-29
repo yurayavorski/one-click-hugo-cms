@@ -3,7 +3,7 @@ title: Meet Kids'Needs
 subtitle: We're charity organisation aimed to help kids in orphanages
 image: img/june_1.jpg
 blurb:
-  heading: Why Kids Needs?
+  heading: Why Us?
   text: Our goal is to bring emotions and impressions to kids along with financial
     help
 intro:
