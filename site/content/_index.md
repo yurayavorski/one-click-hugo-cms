@@ -1,7 +1,7 @@
 ---
 title: Meet Kids'Needs
 subtitle: We're charity organisation aimed to help kids in orphanages
-image: /img/home-jumbotron.jpg
+image: img/june_1.jpg
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
