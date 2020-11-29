@@ -3,11 +3,9 @@ title: Meet Kids'Needs
 subtitle: We're charity organisation aimed to help kids in orphanages
 image: img/june_1.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Why Kids Needs?
+  text: Our goal is to bring emotions and impressions to kids along with financial
+    help
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
