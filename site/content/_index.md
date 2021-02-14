@@ -1,36 +1,36 @@
 ---
-title: Meet Kids'Needs
-subtitle: We're charity organisation aimed to help kids in orphanages
+title: Kids'Needs
+subtitle: Благодійна організація допомоги дітям без батьків та малозабезпеченим сім'ям
 image: img/june_1.jpg
 blurb:
-  heading: Why Us?
-  text: Our goal is to bring emotions and impressions to kids along with financial
-    help. Kids'Needs is the ultimate spot for coffee lovers who want to learn
-    about their java’s origin and support the farmers that grew it. We take
-    coffee production, roasting and brewing seriously and we’re glad to pass
-    that knowledge to anyone.
+  heading: Про нас
+  text: >
+    Благодійна організація «Kids'Needs»—
+
+    створена з метою, щоб сприяти та забезпечувати соціальне дитинство усім дітям, які того потребують.
+
+    Головна місія організації – досягнення найвищого рівня соціалізації серед дітей-сиріт та тих, які за якихось умов обмежені у повсякденному спілкуванні та зв’язку з іншими представниками соціуму.
 intro:
-  heading: What we offer
-  text: Kids'Needs is the ultimate spot for coffee lovers who want to learn about
-    their java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
-products:
-  - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+  heading: "Напрямки роботи "
+  text: >
+    Напрямок діяльності організації «Kids'Needs» поділяється на два основні:
+
+    1) ми створюємо та реалізовуємо програм для дітей без батьків, дітей з неповних сімей, а також дитячих будинків та інших організацій, які займаються опікуванням дітей-сиріт або дітей з малозабезпечених сімей, що мають обмежені можливості у навчанні, відвідуванні освітніх, наукових та розважальних заходів та закладів, а також мають обмежений доступ до зовнішнього соціального світу. Задля цього ми
+
+    створюємо програми: освітні візити, заняття, майстер-класи, зустрічі з успішними людьми різних професій (лідери) та реалізовуємо заходи (навчальні, освітні, розважальні тощо),щоб діти мали змогу повноцінно розвиватись з метою адаптації  та інтеграції у соціум.
+
+    2) другорядний / додатковий напрямок діяльності:
+
+    допомога у зборі речей та коштів на утримання дітей з інтернатів або неповних сімей.
+
+    Інші види допомоги за необхідності (визначається за наявністю запиту від дитячих будинків або ін. установ)
+products: []
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: Як допомагати?
+  text: >-
+    Разом ми – сила!
+
+    Люди, які мають бажання допомогти, можуть приєднуватись до нашої команди та ставати волонтерами благодійної  організації «Kids'Needs». Волонтери мають можливість відвідувати дітей та брати участь у програмах, які розроблені для  спілкування, турботи, розвитку, навчання, створення позитивних емоцій, проведення продуктивного часу з дітьми.
+
+    Також додатковою допомогою може бути і матеріальна, фінансова підтримка.
 ---
