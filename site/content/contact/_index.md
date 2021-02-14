@@ -1,6 +1,6 @@
 ---
 title: Контакти
-logo: img/інста-головна.jpg
+logo: img/color_logo.jpg
 contact_entries:
   - heading: Instagram
     text: https://instagram.com/kids._.needs?igshid=1xoduioxbifjj
