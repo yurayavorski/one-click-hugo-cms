@@ -7,11 +7,13 @@
 
 		{{ .Content }}
 
-		<div class="flex-ns mb3">
+		<div class="flex-ns mb3" style="justify-content: space-between;">
 	        	{{ range .Params.contact_entries }}
 				<div>
-					<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
-					<p>{{ .text }}</p>
+					<a href="{{ .reference }}" target="_blank" style="text-decoration: none;">
+						<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
+						<p>{{.text}}</p>
+					</a>
 				</div>
 			{{ end }}
 		</div>
